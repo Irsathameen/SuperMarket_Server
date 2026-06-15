@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\workingout\\SuperMarket\\SuperMarket_Server\\SuperMarket\\",
+  "WorkspaceRootPath": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09D9B26C-1D13-4478-8E0C-A63E0CE0F623}|SuperMarket.Data\\SuperMarket.Data.csproj|d:\\workingout\\supermarket\\supermarket_server\\supermarket\\supermarket.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D9B26C-1D13-4478-8E0C-A63E0CE0F623}|SuperMarket.Data\\SuperMarket.Data.csproj|solutionrelative:supermarket.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6838FAD1-B24D-E27A-EFFF-BB52A5343084}|SuperMarket.Data\\SuperMarket.Data.csproj|d:\\workingout\\angular21_sm\\server\\supermarket\\supermarket.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6838FAD1-B24D-E27A-EFFF-BB52A5343084}|SuperMarket.Data\\SuperMarket.Data.csproj|solutionrelative:supermarket.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5272176A-A009-AF15-4176-751F77C522EE}|SuperMarket\\SuperMarket.csproj|d:\\workingout\\angular21_sm\\server\\supermarket\\supermarket\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5272176A-A009-AF15-4176-751F77C522EE}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5272176A-A009-AF15-4176-751F77C522EE}|SuperMarket\\SuperMarket.csproj|d:\\workingout\\angular21_sm\\server\\supermarket\\supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5272176A-A009-AF15-4176-751F77C522EE}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6838FAD1-B24D-E27A-EFFF-BB52A5343084}|SuperMarket.Data\\SuperMarket.Data.csproj|d:\\workingout\\angular21_sm\\server\\supermarket\\supermarket.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6838FAD1-B24D-E27A-EFFF-BB52A5343084}|SuperMarket.Data\\SuperMarket.Data.csproj|solutionrelative:supermarket.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\workingout\\SuperMarket\\SuperMarket_Server\\SuperMarket\\SuperMarket.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "SuperMarket.Data\\Class1.cs",
-              "ToolTip": "D:\\workingout\\SuperMarket\\SuperMarket_Server\\SuperMarket\\SuperMarket.Data\\Class1.cs",
-              "RelativeToolTip": "SuperMarket.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SuperMarket.Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "SuperMarket.Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T16:09:03.381Z",
+              "WhenOpened": "2026-06-15T14:50:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SuperMarket\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA1wBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T14:43:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SuperMarket.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SuperMarket.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T14:42:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Program.cs",
+              "ToolTip": "D:\\workingout\\Angular21_SM\\Server\\SuperMarket\\SuperMarket\\Program.cs",
+              "RelativeToolTip": "SuperMarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:02:39.989Z",
               "EditorCaption": ""
             }
           ]
